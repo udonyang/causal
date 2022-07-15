@@ -1,6 +1,9 @@
-# causal
-super simple statistic methodology. [狗头]
+# Causal
+super simple statistic tools.
 
-# feature
+# Feature
 - discover skew
 - construct causal graph
+
+# Design
+brute force
